@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Radio Rio Pardo MG</string>
+    <string name="greeting">Hello %1$s!</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="loading">Loading...</string>
+    <string name="radio_status_playing">Ouvindo agora: Rádio Rio Pardo MG</string>
+    <string name="radio_status_stopped">Rádio Pausada</string>
+    <string name="whatsapp_button">WhatsApp</string>
+    <string name="email_button">E-mail</string>
+    <string name="youtube_button">YouTube</string>
+    <string name="instagram_button">Instagram</string>
+    <string name="facebook_button">Facebook</string>
+    <string name="stop">Stop</string>
+</resources>

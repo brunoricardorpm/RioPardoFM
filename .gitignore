@@ -1,0 +1,25 @@
+# Arquivos do Android Studio e Gradle
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+.idea/
+.idea/caches/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+*.iml
+.DS_Store
+
+# ARQUIVOS SENSÍVEIS - NÃO SUBIR PRO GITHUB!
+# Estes arquivos contêm suas senhas e chaves de assinatura.
+SENHAS_DA_RADIO.txt
+*.jks
+*.keystore
+
+# Kotlin e outros
+.kotlin/
+*.versions.toml.bin
